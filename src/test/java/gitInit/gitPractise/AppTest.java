@@ -39,8 +39,14 @@ public class AppTest
     }
     public void print() {
     	System.out.println("print");
+    	System.out.println("print");
+    	System.out.println("print");
+    	System.out.println("print");
     }
     public void hello() {
+    	System.out.println("Hello world!");
+    	System.out.println("Hello world!");
+    	System.out.println("Hello world!");
     	System.out.println("Hello world!");
     }
 }
